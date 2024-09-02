@@ -1,5 +1,7 @@
 # Istea-mineria-datos-i
-![logo](https://github.com/user-attachments/assets/922e8eb2-dc2d-46a8-bc93-cdbf414c369e)
+
+![logo](https://github.com/user-attachments/assets/a7f37f32-cd66-48da-9026-027f1b4bac60)
+
 Repositorio Destinado para Minería de Datos 1
 Contiene todos los proyectos, Ejerccios y tareas correspondientes a la cursada 
 
